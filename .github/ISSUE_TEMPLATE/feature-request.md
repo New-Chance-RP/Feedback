@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: *FEATURE TITLE HERE*
 about: If you want something added to New Chance RP use this format.
 title: Feature Request
 labels: Feature Request
