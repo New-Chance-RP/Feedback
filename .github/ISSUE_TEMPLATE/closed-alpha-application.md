@@ -18,7 +18,7 @@ To retrieve your steam ID please do the following steps
 
 **Steam ID**:
 
-**Do you have troubleshooting experience? ** *(If yes please explain)* :
+**Do you have troubleshooting experience?** *(If yes please explain)* :
 
 **How do you personally take screenshots?** : 
 
